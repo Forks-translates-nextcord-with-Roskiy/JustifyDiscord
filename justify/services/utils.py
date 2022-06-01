@@ -10,7 +10,7 @@ import random
 from aeval import aeval
 from textwrap3 import wrap
 from .paginator import JustifyPaginatorInterface
-import disnake
+import nextcord as disnake
 from disnake.ext import commands
 
 
