@@ -3,7 +3,7 @@ from typing import Union
 import sys
 from pathlib import Path
 
-import disnake
+import nextcord as disnake
 from .services.utils import JustifyUtils
 from disnake.ext import commands
 
